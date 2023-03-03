@@ -10,12 +10,30 @@
     <lastBuildDate>Fri, 03 Mar 2023 20:11:52 +0800</lastBuildDate><atom:link href="https://hifishf.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MyFirstHugoBlog</title>
+      <link>https://hifishf.github.io/about/selfintroduction/</link>
+      <pubDate>Fri, 03 Mar 2023 20:11:52 +0800</pubDate>
+      
+      <guid>https://hifishf.github.io/about/selfintroduction/</guid>
+      <description>熟练掌握Java语言，熟悉常用集合类、多线程，能用Java8 Stream API高效操作集合类，结合lambda完成数据处理 熟悉SSM、SpringBoot,MyBatis,MyBatisPlus开发框架，了解Spring的事务管理、SpringBoot常用的注解。 熟练使用MySQL，了解索引的底层实现。 熟练使用Redis，熟悉五种数据类型、持久化机制，会利用Redis实现一个分布式锁。 了解常用的设计模式 ，如单例模式、工厂模式。 熟练使用Git、Maven等项目管理及构建工具，了解Linux操作系统及常用命令。 Author:余烽</description>
+    </item>
+    
+    <item>
+      <title>MyFirstHugoBlog</title>
       <link>https://hifishf.github.io/post/myfirsthugoblog/</link>
       <pubDate>Fri, 03 Mar 2023 20:11:52 +0800</pubDate>
       
       <guid>https://hifishf.github.io/post/myfirsthugoblog/</guid>
       <description>##author：余烽
 Isa</description>
+    </item>
+    
+    <item>
+      <title>MyFirstHugoBlog</title>
+      <link>https://hifishf.github.io/selfintroduction/</link>
+      <pubDate>Fri, 03 Mar 2023 20:11:52 +0800</pubDate>
+      
+      <guid>https://hifishf.github.io/selfintroduction/</guid>
+      <description>熟练掌握Java语言，熟悉常用集合类、多线程，能用Java8 Stream API高效操作集合类，结合lambda完成数据处理 熟悉SSM、SpringBoot,MyBatis,MyBatisPlus开发框架，了解Spring的事务管理、SpringBoot常用的注解。 熟练使用MySQL，了解索引的底层实现。 熟练使用Redis，熟悉五种数据类型、持久化机制，会利用Redis实现一个分布式锁。 了解常用的设计模式 ，如单例模式、工厂模式。 熟练使用Git、Maven等项目管理及构建工具，了解Linux操作系统及常用命令。 Author:余烽</description>
     </item>
     
   </channel>
